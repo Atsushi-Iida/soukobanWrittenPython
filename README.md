@@ -1,0 +1,2 @@
+# soukobanWrittenPython
+Pythonでコマンドライン上で動作する倉庫番を作成
